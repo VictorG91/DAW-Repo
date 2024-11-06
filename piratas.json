@@ -1,0 +1,293 @@
+[
+    {
+      "nombre": "Monkey D. Luffy",
+      "edad": 19,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": true,
+      "recompensa": 1500000000,
+      "habilidad": "Haki del Rey, Haki de Observación, Haki de Armadura",
+      "fruta_del_diablo": "Gomu Gomu no Mi",
+      "descripcion": "Capitán de los Piratas del Sombrero de Paja que sueña con ser el Rey de los Piratas."
+    },
+    {
+      "nombre": "Roronoa Zoro",
+      "edad": 21,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 320000000,
+      "habilidad": "Maestría en tres espadas, Haki de Armadura, Haki de Observación",
+      "fruta_del_diablo": null,
+      "descripcion": "Espadachín de los Sombrero de Paja. Aspira a ser el mejor espadachín del mundo."
+    },
+    {
+      "nombre": "Nami",
+      "edad": 20,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 66000000,
+      "habilidad": "Experta en navegación, Clima-Tact",
+      "fruta_del_diablo": null,
+      "descripcion": "Navegante de los Sombrero de Paja. Sueña con mapear todo el mundo."
+    },
+    {
+      "nombre": "Usopp",
+      "edad": 19,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 200000000,
+      "habilidad": "Tirador experto, Haki de Observación",
+      "fruta_del_diablo": null,
+      "descripcion": "Francotirador y mentiroso autoproclamado héroe. Sueña con ser un valiente guerrero del mar."
+    },
+    {
+      "nombre": "Sanji",
+      "edad": 21,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 330000000,
+      "habilidad": "Experto en combate con piernas, Haki de Observación y Armadura",
+      "fruta_del_diablo": null,
+      "descripcion": "Cocinero de la tripulación con gran habilidad para la pelea. Sueña con encontrar el All Blue."
+    },
+    {
+      "nombre": "Tony Tony Chopper",
+      "edad": 17,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 100,
+      "habilidad": "Transformación en varias formas",
+      "fruta_del_diablo": "Hito Hito no Mi",
+      "descripcion": "Reno y médico de la tripulación con habilidades médicas sobresalientes."
+    },
+    {
+      "nombre": "Nico Robin",
+      "edad": 30,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 130000000,
+      "habilidad": "Capacidad de hacer florecer partes de su cuerpo",
+      "fruta_del_diablo": "Hana Hana no Mi",
+      "descripcion": "Arqueóloga de la tripulación, en busca del Río Poneglyph y los secretos del siglo vacío."
+    },
+    {
+      "nombre": "Franky",
+      "edad": 36,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 94000000,
+      "habilidad": "Cyborg con fuerza sobrehumana",
+      "fruta_del_diablo": null,
+      "descripcion": "Ingeniero de la tripulación que construyó el barco Thousand Sunny."
+    },
+    {
+      "nombre": "Brook",
+      "edad": 90,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 83000000,
+      "habilidad": "Puede revivir después de morir, habilidad musical",
+      "fruta_del_diablo": "Yomi Yomi no Mi",
+      "descripcion": "Músico esquelético de la tripulación con habilidades de combate únicas."
+    },
+    {
+      "nombre": "Jinbe",
+      "edad": 46,
+      "tripulacion": "Sombrero de Paja",
+      "capitan": false,
+      "recompensa": 438000000,
+      "habilidad": "Karate Gyojin, gran fuerza",
+      "fruta_del_diablo": null,
+      "descripcion": "Maestro de Karate Gyojin y timonel de la tripulación."
+    },
+    {
+      "nombre": "Marshall D. Teach",
+      "edad": 40,
+      "tripulacion": "Piratas de Barbanegra",
+      "capitan": true,
+      "recompensa": 2247600000,
+      "habilidad": "Puede absorber y nulificar frutas del diablo",
+      "fruta_del_diablo": "Yami Yami no Mi, Gura Gura no Mi",
+      "descripcion": "Capitán de los Piratas de Barbanegra. Un peligroso pirata en busca del poder supremo."
+    },
+    {
+      "nombre": "Shanks",
+      "edad": 39,
+      "tripulacion": "Piratas del Pelirrojo",
+      "capitan": true,
+      "recompensa": 4048900000,
+      "habilidad": "Maestría en Haki del Rey",
+      "fruta_del_diablo": null,
+      "descripcion": "Uno de los Cuatro Emperadores y antiguo miembro de la tripulación de Roger."
+    },
+    {
+      "nombre": "Charlotte Linlin (Big Mom)",
+      "edad": 68,
+      "tripulacion": "Piratas de Big Mom",
+      "capitan": true,
+      "recompensa": 4388000000,
+      "habilidad": "Control sobre almas",
+      "fruta_del_diablo": "Soru Soru no Mi",
+      "descripcion": "Emperatriz temida por su crueldad y su habilidad para crear Homies."
+    },
+    {
+      "nombre": "Kaido",
+      "edad": 59,
+      "tripulacion": "Piratas de las Bestias",
+      "capitan": true,
+      "recompensa": 4611000000,
+      "habilidad": "Transformación en dragón",
+      "fruta_del_diablo": "Uo Uo no Mi",
+      "descripcion": "El ser más fuerte del mundo y uno de los Cuatro Emperadores."
+    },
+    {
+      "nombre": "Portgas D. Ace",
+      "edad": 20,
+      "tripulacion": "Piratas de Barbablanca",
+      "capitan": false,
+      "recompensa": 550000000,
+      "habilidad": "Manipulación de fuego",
+      "fruta_del_diablo": "Mera Mera no Mi",
+      "descripcion": "Hermano jurado de Luffy, un valiente y poderoso pirata."
+    },
+    {
+      "nombre": "Eustass Kid",
+      "edad": 23,
+      "tripulacion": "Piratas de Kid",
+      "capitan": true,
+      "recompensa": 470000000,
+      "habilidad": "Control sobre metal",
+      "fruta_del_diablo": null,
+      "descripcion": "Pirata impulsivo y violento, ambiciona el título de Rey de los Piratas."
+    },
+    {
+      "nombre": "Trafalgar D. Water Law",
+      "edad": 26,
+      "tripulacion": "Piratas de Heart",
+      "capitan": true,
+      "recompensa": 500000000,
+      "habilidad": "Manipulación del espacio en un área específica",
+      "fruta_del_diablo": "Ope Ope no Mi",
+      "descripcion": "Pirata estratega y cirujano, aliado temporal de los Sombrero de Paja."
+    },
+    {
+      "nombre": "Donquixote Doflamingo",
+      "edad": 41,
+      "tripulacion": "Familia Donquixote",
+      "capitan": true,
+      "recompensa": 340000000,
+      "habilidad": "Manipulación de hilos",
+      "fruta_del_diablo": "Ito Ito no Mi",
+      "descripcion": "Antiguo Shichibukai, temido por su manipulación política y poder destructivo."
+    },
+    {
+      "nombre": "Basil Hawkins",
+      "edad": 31,
+      "tripulacion": "Piratas de Hawkins",
+      "capitan": true,
+      "recompensa": 249000000,
+      "habilidad": "Manipulación de muñecos de paja",
+      "fruta_del_diablo": "Wara Wara no Mi",
+      "descripcion": "Pirata y adivino, su habilidad le permite transferir daño a muñecos."
+    },
+    {
+      "nombre": "Scratchmen Apoo",
+      "edad": 29,
+      "tripulacion": "Piratas de On Air",
+      "capitan": true,
+      "recompensa": 198000000,
+      "habilidad": "Transformación del cuerpo en instrumentos musicales",
+      "fruta_del_diablo": null,
+      "descripcion": "Pirata traicionero que puede usar su cuerpo como arma musical."
+    },
+    {
+      "nombre": "Cavendish",
+      "edad": 26,
+      "tripulacion": "Piratas Hermosos",
+      "capitan": true,
+      "recompensa": 330000000,
+      "habilidad": "Se convierte en su alter-ego Hakuba al pelear",
+      "fruta_del_diablo": null,
+      "descripcion": "Pirata encantador pero con un peligroso alter-ego."
+    },
+    {
+      "nombre": "Capone Bege",
+      "edad": 42,
+      "tripulacion": "Piratas de Fire Tank",
+      "capitan": true,
+      "recompensa": 350000000,
+      "habilidad": "Transformación en fortaleza",
+      "fruta_del_diablo": "Shiro Shiro no Mi",
+      "descripcion": "Pirata con gran habilidad táctica y poder defensivo."
+    },
+    {
+      "nombre": "Killer",
+      "edad": 25,
+      "tripulacion": "Piratas de Kid",
+      "capitan": false,
+      "recompensa": 200000000,
+      "habilidad": "Maestría con cuchillas",
+      "fruta_del_diablo": null,
+      "descripcion": "Pirata despiadado y fiel compañero de Eustass Kid."
+    },
+    {
+      "nombre": "Bartolomeo",
+      "edad": 24,
+      "tripulacion": "Piratas de Barto Club",
+      "capitan": true,
+      "recompensa": 200000000,
+      "habilidad": "Crea barreras invisibles",
+      "fruta_del_diablo": "Bari Bari no Mi",
+      "descripcion": "Pirata fanático de Luffy y su tripulación."
+    },
+    {
+      "nombre": "Jewel Bonney",
+      "edad": 24,
+      "tripulacion": "Piratas de Bonney",
+      "capitan": true,
+      "recompensa": 140000000,
+      "habilidad": "Manipulación de la edad",
+      "fruta_del_diablo": null,
+      "descripcion": "Pirata misteriosa con una habilidad inusual."
+    },
+    {
+      "nombre": "Crocodile",
+      "edad": 46,
+      "tripulacion": "Baroque Works",
+      "capitan": true,
+      "recompensa": 81000000,
+      "habilidad": "Manipulación de arena",
+      "fruta_del_diablo": "Suna Suna no Mi",
+      "descripcion": "Antiguo Shichibukai con un pasado oscuro y gran ambición."
+    },
+    {
+      "nombre": "Enel",
+      "edad": 39,
+      "tripulacion": "Ejército Skypiea",
+      "capitan": true,
+      "recompensa": null,
+      "habilidad": "Control de rayos y electricidad",
+      "fruta_del_diablo": "Goro Goro no Mi",
+      "descripcion": "Autoproclamado dios de Skypiea, con poderes eléctricos devastadores."
+    },
+    {
+      "nombre": "Charlotte Katakuri",
+      "edad": 48,
+      "tripulacion": "Piratas de Big Mom",
+      "capitan": false,
+      "recompensa": 1057000000,
+      "habilidad": "Transformación de su cuerpo en mochi",
+      "fruta_del_diablo": "Mochi Mochi no Mi",
+      "descripcion": "Guerrero formidable y líder leal de su familia."
+    },
+    {
+      "nombre": "Shiki",
+      "edad": 70,
+      "tripulacion": "Piratas de Shiki",
+      "capitan": true,
+      "recompensa": null,
+      "habilidad": "Levitar objetos",
+      "fruta_del_diablo": "Fuwa Fuwa no Mi",
+      "descripcion": "Pirata legendario y rival de Roger."
+    }
+  ]
+  

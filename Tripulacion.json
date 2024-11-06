@@ -1,0 +1,123 @@
+[
+    {
+      "nombre_tripulacion": "Piratas del Sombrero de Paja",
+      "capitan": "Monkey D. Luffy",
+      "numero_integrantes": 10,
+      "recompensa_total": 3500000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Barbanegra",
+      "capitan": "Marshall D. Teach",
+      "numero_integrantes": 10,
+      "recompensa_total": 4500000000
+    },
+    {
+      "nombre_tripulacion": "Piratas del Pelirrojo",
+      "capitan": "Shanks",
+      "numero_integrantes": 9,
+      "recompensa_total": 4048900000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Big Mom",
+      "capitan": "Charlotte Linlin (Big Mom)",
+      "numero_integrantes": 85,
+      "recompensa_total": 5000000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de las Bestias",
+      "capitan": "Kaido",
+      "numero_integrantes": 30,
+      "recompensa_total": 4700000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Barbablanca",
+      "capitan": "Edward Newgate (Barbablanca)",
+      "numero_integrantes": 1600,
+      "recompensa_total": 5000000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Kid",
+      "capitan": "Eustass Kid",
+      "numero_integrantes": 15,
+      "recompensa_total": 470000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Heart",
+      "capitan": "Trafalgar D. Water Law",
+      "numero_integrantes": 20,
+      "recompensa_total": 500000000
+    },
+    {
+      "nombre_tripulacion": "Familia Donquixote",
+      "capitan": "Donquixote Doflamingo",
+      "numero_integrantes": 16,
+      "recompensa_total": 340000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Hawkins",
+      "capitan": "Basil Hawkins",
+      "numero_integrantes": 10,
+      "recompensa_total": 249000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de On Air",
+      "capitan": "Scratchmen Apoo",
+      "numero_integrantes": 12,
+      "recompensa_total": 198000000
+    },
+    {
+      "nombre_tripulacion": "Piratas Hermosos",
+      "capitan": "Cavendish",
+      "numero_integrantes": 6,
+      "recompensa_total": 330000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Fire Tank",
+      "capitan": "Capone Bege",
+      "numero_integrantes": 30,
+      "recompensa_total": 350000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Barto Club",
+      "capitan": "Bartolomeo",
+      "numero_integrantes": 8,
+      "recompensa_total": 200000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Bonney",
+      "capitan": "Jewel Bonney",
+      "numero_integrantes": 9,
+      "recompensa_total": 140000000
+    },
+    {
+      "nombre_tripulacion": "Piratas de Buggy",
+      "capitan": "Buggy el Payaso",
+      "numero_integrantes": 50,
+      "recompensa_total": 15000000
+    },
+    {
+      "nombre_tripulacion": "Ejército Skypiea",
+      "capitan": "Enel",
+      "numero_integrantes": 200,
+      "recompensa_total": null
+    },
+    {
+      "nombre_tripulacion": "Piratas de Shiki",
+      "capitan": "Shiki",
+      "numero_integrantes": 50,
+      "recompensa_total": 900000000
+    },
+    {
+      "nombre_tripulacion": "Piratas Kuja",
+      "capitan": "Boa Hancock",
+      "numero_integrantes": 25,
+      "recompensa_total": 80000000
+    },
+    {
+      "nombre_tripulacion": "Baroque Works",
+      "capitan": "Sir Crocodile",
+      "numero_integrantes": 100,
+      "recompensa_total": 81000000
+    }
+  ]
+  

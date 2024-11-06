@@ -1,0 +1,93 @@
+[
+    {
+      "nombre": "Monkey D. Garp",
+      "descripcion": "Héroe de la Marina, famoso por enfrentarse a Gol D. Roger.",
+      "fruta_del_diablo": null,
+      "habilidades": "Haki del Rey, fuerza física sobrehumana"
+    },
+    {
+      "nombre": "Sengoku",
+      "descripcion": "Ex Almirante de la Flota conocido como 'El Buda'.",
+      "fruta_del_diablo": "Hito Hito no Mi, Modelo: Daibutsu",
+      "habilidades": "Transformación en gran figura dorada de Buda"
+    },
+    {
+      "nombre": "Akainu (Sakazuki)",
+      "descripcion": "Almirante de la Flota con una estricta visión de la justicia absoluta.",
+      "fruta_del_diablo": "Magu Magu no Mi",
+      "habilidades": "Manipulación de magma y lava"
+    },
+    {
+      "nombre": "Aokiji (Kuzan)",
+      "descripcion": "Ex Almirante de la Marina, defensor de la justicia perezosa.",
+      "fruta_del_diablo": "Hie Hie no Mi",
+      "habilidades": "Control del hielo y congelación"
+    },
+    {
+      "nombre": "Kizaru (Borsalino)",
+      "descripcion": "Almirante conocido por su velocidad y actitud despreocupada.",
+      "fruta_del_diablo": "Pika Pika no Mi",
+      "habilidades": "Manipulación de la luz, movimientos a la velocidad de la luz"
+    },
+    {
+      "nombre": "Fujitora (Issho)",
+      "descripcion": "Almirante ciego que busca una justicia imparcial.",
+      "fruta_del_diablo": "Zushi Zushi no Mi",
+      "habilidades": "Control de la gravedad"
+    },
+    {
+      "nombre": "Green Bull (Ryokugyu)",
+      "descripcion": "Almirante con habilidades botánicas y una actitud enérgica.",
+      "fruta_del_diablo": null,
+      "habilidades": "Capacidad de generar y manipular plantas"
+    },
+    {
+      "nombre": "Smoker",
+      "descripcion": "Vicealmirante obstinado y determinado a capturar a Luffy.",
+      "fruta_del_diablo": "Moku Moku no Mi",
+      "habilidades": "Transformación en humo y manipulación del mismo"
+    },
+    {
+      "nombre": "Tashigi",
+      "descripcion": "Espadachina y subordinada de Smoker.",
+      "fruta_del_diablo": null,
+      "habilidades": "Habilidad con la espada y gran conocimiento sobre espadas legendarias"
+    },
+    {
+      "nombre": "Koby",
+      "descripcion": "Marine joven y prometedor bajo la tutela de Garp.",
+      "fruta_del_diablo": null,
+      "habilidades": "Habilidad en el combate cuerpo a cuerpo y Haki de Observación"
+    },
+    {
+      "nombre": "Helmeppo",
+      "descripcion": "Marine y amigo de Koby, hijo de Morgan.",
+      "fruta_del_diablo": null,
+      "habilidades": "Habilidad en combate cuerpo a cuerpo y con espadas"
+    },
+    {
+      "nombre": "Tsuru",
+      "descripcion": "Vicealmirante veterana, conocida por su inteligencia y perspicacia.",
+      "fruta_del_diablo": "Woshu Woshu no Mi",
+      "habilidades": "Transforma a las personas en tela plegable"
+    },
+    {
+      "nombre": "Momonga",
+      "descripcion": "Vicealmirante respetado con habilidades de combate con espada.",
+      "fruta_del_diablo": null,
+      "habilidades": "Dominio de la espada y gran resistencia física"
+    },
+    {
+      "nombre": "Vergo",
+      "descripcion": "Ex Vicealmirante y espía de la Familia Donquixote.",
+      "fruta_del_diablo": null,
+      "habilidades": "Haki de Armadura excepcional y fuerza sobrehumana"
+    },
+    {
+      "nombre": "Bogard",
+      "descripcion": "Espadachín y subordinado de Garp.",
+      "fruta_del_diablo": null,
+      "habilidades": "Habilidad con la espada y en combate cuerpo a cuerpo"
+    }
+  ]
+  
