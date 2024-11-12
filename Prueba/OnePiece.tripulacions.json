@@ -1,0 +1,198 @@
+[{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed381"
+  },
+  "nombre_tripulacion": "Piratas del Sombrero de Paja",
+  "capitan": "Monkey D. Luffy",
+  "numero_integrantes": 10,
+  "recompensa_total": {
+    "$numberLong": "3500000000"
+  },
+  "imagen": "https://cdn5.dibujos.net/dibujos/pintados/201320/bandera-del-sombrero-de-paja-dibujos-de-los-usuarios-pintado-por-ru_82-9815103.jpg"
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed382"
+  },
+  "nombre_tripulacion": "Piratas de Barbanegra",
+  "capitan": "Marshall D. Teach",
+  "numero_integrantes": 10,
+  "recompensa_total": {
+    "$numberLong": "4500000000"
+  },
+  "imagen": "https://albumizr.com/ia/f76c65b15c737e1ad28eaeeff1c651a0.jpg"
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed383"
+  },
+  "nombre_tripulacion": "Piratas del Pelirrojo",
+  "capitan": "Shanks",
+  "numero_integrantes": 9,
+  "recompensa_total": {
+    "$numberLong": "4048900000"
+  },
+  "imagen": "https://m.media-amazon.com/images/I/511bycvdu5L.jpg"
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed384"
+  },
+  "nombre_tripulacion": "Piratas de Big Mom",
+  "capitan": "Charlotte Linlin (Big Mom)",
+  "numero_integrantes": 85,
+  "recompensa_total": {
+    "$numberLong": "5000000000"
+  },
+  "imagen": "https://jolly-roger.es/wp-content/uploads/2021/08/big-mom-jolly-roger.jpg"
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed385"
+  },
+  "nombre_tripulacion": "Piratas de las Bestias",
+  "capitan": "Kaido",
+  "numero_integrantes": 30,
+  "recompensa_total": {
+    "$numberLong": "4700000000"
+  },
+  "imagen": "https://http2.mlstatic.com/D_NQ_NP_950853-MLM52127885774_102022-O.webp"
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed386"
+  },
+  "nombre_tripulacion": "Piratas de Barbablanca",
+  "capitan": "Edward Newgate (Barbablanca)",
+  "numero_integrantes": 1600,
+  "recompensa_total": {
+    "$numberLong": "5000000000"
+  },
+  "imagen": "https://i.pinimg.com/474x/47/dc/ee/47dcee2ff6b947dca2a4619ec712e44b.jpg"
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed387"
+  },
+  "nombre_tripulacion": "Piratas de Kid",
+  "capitan": "Eustass Kid",
+  "numero_integrantes": 15,
+  "recompensa_total": 470000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed388"
+  },
+  "nombre_tripulacion": "Piratas de Heart",
+  "capitan": "Trafalgar D. Water Law",
+  "numero_integrantes": 20,
+  "recompensa_total": 500000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed389"
+  },
+  "nombre_tripulacion": "Familia Donquixote",
+  "capitan": "Donquixote Doflamingo",
+  "numero_integrantes": 16,
+  "recompensa_total": 340000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed38a"
+  },
+  "nombre_tripulacion": "Piratas de Hawkins",
+  "capitan": "Basil Hawkins",
+  "numero_integrantes": 10,
+  "recompensa_total": 249000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed38b"
+  },
+  "nombre_tripulacion": "Piratas de On Air",
+  "capitan": "Scratchmen Apoo",
+  "numero_integrantes": 12,
+  "recompensa_total": 198000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed38c"
+  },
+  "nombre_tripulacion": "Piratas Hermosos",
+  "capitan": "Cavendish",
+  "numero_integrantes": 6,
+  "recompensa_total": 330000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed38d"
+  },
+  "nombre_tripulacion": "Piratas de Fire Tank",
+  "capitan": "Capone Bege",
+  "numero_integrantes": 30,
+  "recompensa_total": 350000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed38e"
+  },
+  "nombre_tripulacion": "Piratas de Barto Club",
+  "capitan": "Bartolomeo",
+  "numero_integrantes": 8,
+  "recompensa_total": 200000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed38f"
+  },
+  "nombre_tripulacion": "Piratas de Bonney",
+  "capitan": "Jewel Bonney",
+  "numero_integrantes": 9,
+  "recompensa_total": 140000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed390"
+  },
+  "nombre_tripulacion": "Piratas de Buggy",
+  "capitan": "Buggy el Payaso",
+  "numero_integrantes": 50,
+  "recompensa_total": 15000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed391"
+  },
+  "nombre_tripulacion": "Ejército Skypiea",
+  "capitan": "Enel",
+  "numero_integrantes": 200,
+  "recompensa_total": null
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed392"
+  },
+  "nombre_tripulacion": "Piratas de Shiki",
+  "capitan": "Shiki",
+  "numero_integrantes": 50,
+  "recompensa_total": 900000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed393"
+  },
+  "nombre_tripulacion": "Piratas Kuja",
+  "capitan": "Boa Hancock",
+  "numero_integrantes": 25,
+  "recompensa_total": 80000000
+},
+{
+  "_id": {
+    "$oid": "672bf2a0a390651169eed394"
+  },
+  "nombre_tripulacion": "Baroque Works",
+  "capitan": "Sir Crocodile",
+  "numero_integrantes": 100,
+  "recompensa_total": 81000000
+}]

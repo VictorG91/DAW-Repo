@@ -1,0 +1,406 @@
+[{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad04"
+  },
+  "nombre": "Monkey D. Luffy",
+  "edad": 19,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": true,
+  "recompensa": 1500000000,
+  "habilidad": "Haki del Rey, Haki de Observación, Haki de Armadura",
+  "fruta_del_diablo": "Gomu Gomu no Mi",
+  "descripcion": "Capitán de los Piratas del Sombrero de Paja que sueña con ser el Rey de los Piratas.",
+  "imagen": "https://i.seadn.io/gae/wn1AqygvUA8vRaQHZDf35atzxbChnMyhv5eO17WXGyy3DTloiNMj5IL8PGGdBAPq96060PxjxFTXXNK8F6vh5FnnQBsElX8F45brMn0?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad05"
+  },
+  "nombre": "Roronoa Zoro",
+  "edad": 21,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 320000000,
+  "habilidad": "Maestría en tres espadas, Haki de Armadura, Haki de Observación",
+  "fruta_del_diablo": null,
+  "descripcion": "Espadachín de los Sombrero de Paja. Aspira a ser el mejor espadachín del mundo.",
+  "imagen": "https://i.seadn.io/gae/baoMZYLQBCPC4zvIg2Kh8OkngysGlMLsdZQt1FWUzTdFAyssmDbqhMPxuu-GTHYuAXSK7GvYWxE2fCSQkSLtvhnupEJfKOFdAZNmUK8?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad06"
+  },
+  "nombre": "Nami",
+  "edad": 20,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 66000000,
+  "habilidad": "Experta en navegación, Clima-Tact",
+  "fruta_del_diablo": null,
+  "descripcion": "Navegante de los Sombrero de Paja. Sueña con mapear todo el mundo.",
+  "imagen": "https://i.seadn.io/gae/Xf34nfJctqjKqkSbrBORX-JL06N_KO5TSTKnX0i7vcl3irDLYWERsSlaL54rWvrVd8R6DPOfxLhLd8mn0wAKoqpImhGeuqyZHvPu?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad07"
+  },
+  "nombre": "Usopp",
+  "edad": 19,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 200000000,
+  "habilidad": "Tirador experto, Haki de Observación",
+  "fruta_del_diablo": null,
+  "descripcion": "Francotirador y mentiroso autoproclamado héroe. Sueña con ser un valiente guerrero del mar.",
+  "imagen": "https://i.seadn.io/gae/3wd6qEFcjD6v7b_YguvK6KTfQrYLdmUaF2fhatTQ2AyXr8h92BNVLKTAKbTpcVX6iZrE5wTC_40sPr6iSVsBDr9Fm5pRkfYxd8t06Q?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad08"
+  },
+  "nombre": "Sanji",
+  "edad": 21,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 330000000,
+  "habilidad": "Experto en combate con piernas, Haki de Observación y Armadura",
+  "fruta_del_diablo": null,
+  "descripcion": "Cocinero de la tripulación con gran habilidad para la pelea. Sueña con encontrar el All Blue.",
+  "imagen": "https://i.seadn.io/gae/DBNtXk_jSkafwU4W6k7oEhk1BGXovulKXE3kKSAdskJSS07KYMbx1P3hC2Nw_jzoKm-oSk98s-syIYkuwIFgSkag8SFRqsRQNlT8ug?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad09"
+  },
+  "nombre": "Tony Tony Chopper",
+  "edad": 17,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 100,
+  "habilidad": "Transformación en varias formas",
+  "fruta_del_diablo": "Hito Hito no Mi",
+  "descripcion": "Reno y médico de la tripulación con habilidades médicas sobresalientes.",
+  "imagen": "https://i.seadn.io/gae/UcQeVQ-M1ANpFwsfqgLg7z8pR6_J5WwHr5mPYlsCDfGilDYy-MHG2A0rcogEHzVKuj8blFgzlzbmx5ndRXNKmqG4Zvaq8segmQP5IQ?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad0a"
+  },
+  "nombre": "Nico Robin",
+  "edad": 30,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 130000000,
+  "habilidad": "Capacidad de hacer florecer partes de su cuerpo",
+  "fruta_del_diablo": "Hana Hana no Mi",
+  "descripcion": "Arqueóloga de la tripulación, en busca del Río Poneglyph y los secretos del siglo vacío.",
+  "imagen": "https://i.seadn.io/gae/7oQeCFr0rDuH07RmG-61CSQEqDAgZBOI9cU90R1FPRvB3KLGz_q_1J6h7OzF78rbkEIkAUeb9s-GTndCokiFQbTERISYxWtCleZ9vg?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad0b"
+  },
+  "nombre": "Franky",
+  "edad": 36,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 94000000,
+  "habilidad": "Cyborg con fuerza sobrehumana",
+  "fruta_del_diablo": null,
+  "descripcion": "Ingeniero de la tripulación que construyó el barco Thousand Sunny.",
+  "imagen": "https://i.seadn.io/gae/MC02T75sXLd5rtsYkKn7DH7gsULXqydliRLgIT9xTDnH5Xi75ZownAb0GBcjUo1kQl6tWPRqF5_EzlG3QbWThIGYVfU3H7DrSrHH1BA?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad0c"
+  },
+  "nombre": "Brook",
+  "edad": 90,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 83000000,
+  "habilidad": "Puede revivir después de morir, habilidad musical",
+  "fruta_del_diablo": "Yomi Yomi no Mi",
+  "descripcion": "Músico esquelético de la tripulación con habilidades de combate únicas.",
+  "imagen": "https://i.seadn.io/s/raw/files/74855072b3f23b714b378cc1e8e65bb8.png?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad0d"
+  },
+  "nombre": "Jinbe",
+  "edad": 46,
+  "tripulacion": "Sombrero de Paja",
+  "capitan": false,
+  "recompensa": 438000000,
+  "habilidad": "Karate Gyojin, gran fuerza",
+  "fruta_del_diablo": null,
+  "descripcion": "Maestro de Karate Gyojin y timonel de la tripulación.",
+  "imagen": "https://i.seadn.io/gae/7rpiQWyYLqNISiydDYgD4tjqdRQ386hpCD0MPe8lfvo4n24DTDRXEh3cqANnnzQl4ExNsXgaYpUca9q_shK0i0xpo--q3ohoJb5B?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad0e"
+  },
+  "nombre": "Marshall D. Teach",
+  "edad": 40,
+  "tripulacion": "Piratas de Barbanegra",
+  "capitan": true,
+  "recompensa": {
+    "$numberLong": "2247600000"
+  },
+  "habilidad": "Puede absorber y nulificar frutas del diablo",
+  "fruta_del_diablo": "Yami Yami no Mi, Gura Gura no Mi",
+  "descripcion": "Capitán de los Piratas de Barbanegra. Un peligroso pirata en busca del poder supremo.",
+  "imagen": "https://i.seadn.io/gae/DzSIkGeYIglA6UsNK4mXcwdtz_OzVx7i_EyjhWOskKyyc0XMEQ1hbjv4uLlhx_SxFHeIDQpjn8yj0UOFQRW3E9FWC2VmegK2EBSg0g?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad0f"
+  },
+  "nombre": "Shanks",
+  "edad": 39,
+  "tripulacion": "Piratas del Pelirrojo",
+  "capitan": true,
+  "recompensa": {
+    "$numberLong": "4048900000"
+  },
+  "habilidad": "Maestría en Haki del Rey",
+  "fruta_del_diablo": null,
+  "descripcion": "Uno de los Cuatro Emperadores y antiguo miembro de la tripulación de Roger.",
+  "imagen": "https://i.seadn.io/gae/kXVTtfIXKyQfTDP0TMlGKaUwxKp-MSwsTpj94MkrSzLC0ekxn2y5ID4Izdbi3b8P6JkFK3TlToE1Bcc4emYf9g2O2ldRl8lf7lO5?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad10"
+  },
+  "nombre": "Charlotte Linlin (Big Mom)",
+  "edad": 68,
+  "tripulacion": "Piratas de Big Mom",
+  "capitan": true,
+  "recompensa": {
+    "$numberLong": "4388000000"
+  },
+  "habilidad": "Control sobre almas",
+  "fruta_del_diablo": "Soru Soru no Mi",
+  "descripcion": "Emperatriz temida por su crueldad y su habilidad para crear Homies.",
+  "imagen": "https://i.seadn.io/gae/5oo8smOMbtc5WGOyn4b99s6nTpQL5tk2OumqQCFJ9Dr-YAIyPSTcrov2EqxzCdqehv6cnPOCB0uVt4au02Cmf3f83tas4lIg8GNyQw?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad11"
+  },
+  "nombre": "Kaido",
+  "edad": 59,
+  "tripulacion": "Piratas de las Bestias",
+  "capitan": true,
+  "recompensa": {
+    "$numberLong": "4611000000"
+  },
+  "habilidad": "Transformación en dragón",
+  "fruta_del_diablo": "Uo Uo no Mi",
+  "descripcion": "El ser más fuerte del mundo y uno de los Cuatro Emperadores.",
+  "imagen": "https://i.seadn.io/gae/SoBjg_TFTMWaw0EdsQ3SUagr0a91gqKSB1f9vMKnjf3o6gksliaKKvA0VH-M6X5Sv3XvmXgUvKKzdGxSFEwXUx7HNu347Wp7wE_4Zg?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad12"
+  },
+  "nombre": "Portgas D. Ace",
+  "edad": 20,
+  "tripulacion": "Piratas de Barbablanca",
+  "capitan": false,
+  "recompensa": 550000000,
+  "habilidad": "Manipulación de fuego",
+  "fruta_del_diablo": "Mera Mera no Mi",
+  "descripcion": "Hermano jurado de Luffy, un valiente y poderoso pirata.",
+  "imagen": "https://i.seadn.io/gae/1UaBvjBIlRSS0l2DU5ggnmPAxLAymXu35FaIwtsOUsgo7uDl4BtwfJM0BQbrCT2imejVcOjHG0Z2FeppuTo8CFNqkBIBGzQaxy5tvA?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad13"
+  },
+  "nombre": "Eustass Kid",
+  "edad": 23,
+  "tripulacion": "Piratas de Kid",
+  "capitan": true,
+  "recompensa": 470000000,
+  "habilidad": "Control sobre metal",
+  "fruta_del_diablo": null,
+  "descripcion": "Pirata impulsivo y violento, ambiciona el título de Rey de los Piratas.",
+  "imagen": "https://i.seadn.io/gae/WrGFfE2ADVBWtwnJ09TahH2y_JjxYxPBGunSgTupvb1-dD-aI5MnnvETkO7KCJUmCVaRWeSwQ0PuBr6nTuAv1dDIv503xegTtPYhaA?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad14"
+  },
+  "nombre": "Trafalgar D. Water Law",
+  "edad": 26,
+  "tripulacion": "Piratas de Heart",
+  "capitan": true,
+  "recompensa": 500000000,
+  "habilidad": "Manipulación del espacio en un área específica",
+  "fruta_del_diablo": "Ope Ope no Mi",
+  "descripcion": "Pirata estratega y cirujano, aliado temporal de los Sombrero de Paja.",
+  "imagen": "https://i.seadn.io/gae/aI8XVesQVKItrJRjN4XWn34Pe4Y8DZSGi1dMke3CSB2vEY5e9b0WX9oWvRSbZzSJJSmjB41myTOyjgfXmmhZpnEhIdBxq4RghDdpKjM?auto=format&dpr=1&w=1000"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad15"
+  },
+  "nombre": "Donquixote Doflamingo",
+  "edad": 41,
+  "tripulacion": "Familia Donquixote",
+  "capitan": true,
+  "recompensa": 340000000,
+  "habilidad": "Manipulación de hilos",
+  "fruta_del_diablo": "Ito Ito no Mi",
+  "descripcion": "Antiguo Shichibukai, temido por su manipulación política y poder destructivo.",
+  "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be65b04b-6cfb-4cd7-8a83-788a091cf304/dgzi0pv-84bcc9ef-181b-4c2c-ae8c-06dc8e2edd18.jpg/v1/fill/w_737,h_1084,q_70,strp/doflamingo_wanted_poster_by_mrmorris12_dgzi0pv-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTg4MSIsInBhdGgiOiJcL2ZcL2JlNjViMDRiLTZjZmItNGNkNy04YTgzLTc4OGEwOTFjZjMwNFwvZGd6aTBwdi04NGJjYzllZi0xODFiLTRjMmMtYWU4Yy0wNmRjOGUyZWRkMTguanBnIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.CDSKantLwxEjO9O6xT485LYiNrN-AIO6q3FnGhjrJ28"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad16"
+  },
+  "nombre": "Basil Hawkins",
+  "edad": 31,
+  "tripulacion": "Piratas de Hawkins",
+  "capitan": true,
+  "recompensa": 249000000,
+  "habilidad": "Manipulación de muñecos de paja",
+  "fruta_del_diablo": "Wara Wara no Mi",
+  "descripcion": "Pirata y adivino, su habilidad le permite transferir daño a muñecos.",
+  "imagen": "https://wow.fan/cdn/shop/files/10965-image-1_5090f122-218d-40cc-8b9e-68a9959e4a42.jpg?v=1726006080"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad17"
+  },
+  "nombre": "Scratchmen Apoo",
+  "edad": 29,
+  "tripulacion": "Piratas de On Air",
+  "capitan": true,
+  "recompensa": 198000000,
+  "habilidad": "Transformación del cuerpo en instrumentos musicales",
+  "fruta_del_diablo": null,
+  "descripcion": "Pirata traicionero que puede usar su cuerpo como arma musical.",
+  "imagen": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dfa00d35-67ba-45c8-97e0-98c511c04194/d2as7tz-102e016d-e21e-4fbb-b1da-774c2c805c58.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2RmYTAwZDM1LTY3YmEtNDVjOC05N2UwLTk4YzUxMWMwNDE5NFwvZDJhczd0ei0xMDJlMDE2ZC1lMjFlLTRmYmItYjFkYS03NzRjMmM4MDVjNTguanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.hrbHd1F2zCfh09qo8q7YCskKTRuZjKzB-DFDJtrSe8c"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad18"
+  },
+  "nombre": "Cavendish",
+  "edad": 26,
+  "tripulacion": "Piratas Hermosos",
+  "capitan": true,
+  "recompensa": 330000000,
+  "habilidad": "Se convierte en su alter-ego Hakuba al pelear",
+  "fruta_del_diablo": null,
+  "descripcion": "Pirata encantador pero con un peligroso alter-ego.",
+  "imagen": "https://i.pinimg.com/736x/2a/5a/a0/2a5aa08bbbc5002a28141a1acd194deb.jpg"
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad19"
+  },
+  "nombre": "Capone Bege",
+  "edad": 42,
+  "tripulacion": "Piratas de Fire Tank",
+  "capitan": true,
+  "recompensa": 350000000,
+  "habilidad": "Transformación en fortaleza",
+  "fruta_del_diablo": "Shiro Shiro no Mi",
+  "descripcion": "Pirata con gran habilidad táctica y poder defensivo."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad1a"
+  },
+  "nombre": "Killer",
+  "edad": 25,
+  "tripulacion": "Piratas de Kid",
+  "capitan": false,
+  "recompensa": 200000000,
+  "habilidad": "Maestría con cuchillas",
+  "fruta_del_diablo": null,
+  "descripcion": "Pirata despiadado y fiel compañero de Eustass Kid."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad1b"
+  },
+  "nombre": "Bartolomeo",
+  "edad": 24,
+  "tripulacion": "Piratas de Barto Club",
+  "capitan": true,
+  "recompensa": 200000000,
+  "habilidad": "Crea barreras invisibles",
+  "fruta_del_diablo": "Bari Bari no Mi",
+  "descripcion": "Pirata fanático de Luffy y su tripulación."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad1c"
+  },
+  "nombre": "Jewel Bonney",
+  "edad": 24,
+  "tripulacion": "Piratas de Bonney",
+  "capitan": true,
+  "recompensa": 140000000,
+  "habilidad": "Manipulación de la edad",
+  "fruta_del_diablo": null,
+  "descripcion": "Pirata misteriosa con una habilidad inusual."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad1d"
+  },
+  "nombre": "Crocodile",
+  "edad": 46,
+  "tripulacion": "Baroque Works",
+  "capitan": true,
+  "recompensa": 81000000,
+  "habilidad": "Manipulación de arena",
+  "fruta_del_diablo": "Suna Suna no Mi",
+  "descripcion": "Antiguo Shichibukai con un pasado oscuro y gran ambición."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad1e"
+  },
+  "nombre": "Enel",
+  "edad": 39,
+  "tripulacion": "Ejército Skypiea",
+  "capitan": true,
+  "recompensa": null,
+  "habilidad": "Control de rayos y electricidad",
+  "fruta_del_diablo": "Goro Goro no Mi",
+  "descripcion": "Autoproclamado dios de Skypiea, con poderes eléctricos devastadores."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad1f"
+  },
+  "nombre": "Charlotte Katakuri",
+  "edad": 48,
+  "tripulacion": "Piratas de Big Mom",
+  "capitan": false,
+  "recompensa": 1057000000,
+  "habilidad": "Transformación de su cuerpo en mochi",
+  "fruta_del_diablo": "Mochi Mochi no Mi",
+  "descripcion": "Guerrero formidable y líder leal de su familia."
+},
+{
+  "_id": {
+    "$oid": "6720d722ae5f78fe4519ad20"
+  },
+  "nombre": "Shiki",
+  "edad": 70,
+  "tripulacion": "Piratas de Shiki",
+  "capitan": true,
+  "recompensa": null,
+  "habilidad": "Levitar objetos",
+  "fruta_del_diablo": "Fuwa Fuwa no Mi",
+  "descripcion": "Pirata legendario y rival de Roger."
+}]

@@ -1,0 +1,16 @@
+GET http://localhost:3000/api/piratas
+
+###
+GET http://localhost:3000/api/piratas/6720d722ae5f78fe4519ad04
+
+###
+GET http://localhost:3000/api/marines
+
+###
+GET http://localhost:3000/api/marines/672becf3333a4bd3ab7c67aa
+
+###
+GET http://localhost:3000/api/tripulaciones
+
+###
+GET http://localhost:3000/api/tripulaciones/672bf2a0a390651169eed382

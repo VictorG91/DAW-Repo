@@ -1,22 +1,20 @@
 const express = require('express');
 const mongoose = require('mongoose');
 const cors = require('cors');
-const characterRoutes = require('./routes/characters');
+const piratasRoutes = require('./routes/api/piratas');
+require('dotenv').config();
 
 const app = express();
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect('MONGO_URI_AQUI', {
-   useNewUrlParser: true,
-   useUnifiedTopology: true
-})
+mongoose.connect(process.env.MONGO_URI)
 .then(() => console.log('Conectado a MongoDB'))
 .catch((error) => console.error('Error de conexión', error));
 
-app.use('/api/characters', characterRoutes);
+app.use('/api/piratas', piratasRoutes);
 
-const PORT = 5000;
+const PORT =  process.env.PORT || 5000;
 app.listen(PORT, () => {
    console.log(`Servidor en puerto ${PORT}`);
 });
